@@ -1,0 +1,7 @@
+Tarama tarihi: 20260910-162545
+Taranan kökler: C:\Users\EKO\Pictures, C:\Users\EKO\Desktop, C:\Users\EKO\Downloads
+Toplam resim dosyasi: 968
+── Birebir duplicate grupları: 37
+── Bu gruplardaki fazladan dosya: 82
+── Benzer resim çiftleri (görsel): 179
+── Rapor dosyası: resim_duplicate_rapor_20260910-162545.csv
